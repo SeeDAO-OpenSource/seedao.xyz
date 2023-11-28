@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.698bcb6f.css",
+    "main.js": "/static/js/main.6da23276.js",
+    "static/js/787.83d45570.chunk.js": "/static/js/787.83d45570.chunk.js",
+    "static/media/banner.svg": "/static/media/banner.24981b679d4932ed6fbe00052f4fba4b.svg",
+    "static/media/Intro-Banner.svg": "/static/media/Intro-Banner.7e0ff3168517e6fd8b6d3116c14a153c.svg",
+    "static/media/header.png": "/static/media/header.641291ca3f3618dfcfd5.png",
+    "static/media/journey-banner.svg": "/static/media/journey-banner.3a0fbec541df731d82f8deb81022a5a3.svg",
+    "static/media/build-banner.svg": "/static/media/build-banner.24e5feb14151dcc3e3ca03c1642b21d7.svg",
+    "static/media/govern-node.svg": "/static/media/govern-node.ed343b5329de975da51e363ddc5ddc8e.svg",
+    "static/media/logo.svg": "/static/media/logo.d76ad046640da891427b1859c1b5d3df.svg",
+    "static/media/seed-holder.svg": "/static/media/seed-holder.547aac46c4f77fb34ff2a487764da385.svg",
+    "static/media/seed.svg": "/static/media/seed.5ce757d81ea294b556b52c0c825844b5.svg",
+    "static/media/nodes.svg": "/static/media/nodes.5b24cd5a86f371bd364f60b69fdff18a.svg",
+    "static/media/Frame.svg": "/static/media/Frame.ed3aeb4a7676fef1548973b28c064546.svg",
+    "static/media/member.svg": "/static/media/member.c596c49232183a1de015d61fa7fff341.svg",
+    "static/media/city-hall.svg": "/static/media/city-hall.9df3bc2cd53b0ec7707d10208ab97f3a.svg",
+    "static/media/sun-shadow.svg": "/static/media/sun-shadow.99ad06ad1fee8e25aa77ffa90de274fa.svg",
+    "static/media/build-seedao.svg": "/static/media/build-seedao.ec5474b227a00659ef351d4e1b9fe205.svg",
+    "static/media/onbording.svg": "/static/media/onbording.f5669b764ea16439427c15dd6f700e3c.svg",
+    "static/media/combinator.svg": "/static/media/combinator.d90daded26235ab7a3c52e337c57f3cb.svg",
+    "static/media/contributor.svg": "/static/media/contributor.ec982973cdfaeca3b89486c9407dde17.svg",
+    "static/media/global.svg": "/static/media/global.a29816c6f55180ae94b5d69a3e6501dc.svg",
+    "static/media/proposal.svg": "/static/media/proposal.92ab6278c172840df7c81c4fcfbb5854.svg",
+    "static/media/seedao.svg": "/static/media/seedao.ff0a00b0d88e787500d08185ae18177f.svg",
+    "static/media/meta.svg": "/static/media/meta.0b23e4852baec25d1fc6a6cacd7f995a.svg",
+    "static/media/white-paper.svg": "/static/media/white-paper.4303cb952b67b36023fe8afe7845f602.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.186312b96bceb54b282c56a550978d5f.svg",
+    "main.698bcb6f.css.map": "/static/css/main.698bcb6f.css.map",
+    "main.6da23276.js.map": "/static/js/main.6da23276.js.map",
+    "787.83d45570.chunk.js.map": "/static/js/787.83d45570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698bcb6f.css",
+    "static/js/main.6da23276.js"
+  ]
+}
