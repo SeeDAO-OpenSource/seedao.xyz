@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a96dc775.css",
-    "main.js": "/static/js/main.4c87dd27.js",
+    "main.js": "/static/js/main.71aeaa10.js",
     "static/media/banner.svg": "/static/media/banner.aea40157bd7db190513bd3d3748235f8.svg",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
     "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
-    "static/media/Intro-Banner.svg": "/static/media/Intro-Banner.b8d12d237be7553a931b32efaed4a510.svg",
+    "static/media/Intro-Banner.svg": "/static/media/Intro-Banner.3a0fbec541df731d82f8deb81022a5a3.svg",
     "static/media/hashkey.svg": "/static/media/hashkey.e12758eb282705ce4440a014b42d3e24.svg",
     "static/media/Rectangle-1283.svg": "/static/media/Rectangle-1283.63d97ea341de3f4e482fc7b37c8fa4cc.svg",
     "static/media/Rectangle-1284.svg": "/static/media/Rectangle-1284.4a4b0fdaba205c0be12b4e53835fe9e8.svg",
@@ -26,7 +26,6 @@
     "static/media/image-7.svg": "/static/media/image-7.b79e29f498bc73c0619df08a5f0978e5.svg",
     "static/media/image-5.svg": "/static/media/image-5.5f6100918b50928af3db0e1c74f6e447.svg",
     "static/media/Rectangle-1286.svg": "/static/media/Rectangle-1286.470ad10413659ada44c8f9a15232fe25.svg",
-    "static/media/journey-banner.svg": "/static/media/journey-banner.575e778fda796b2c1527b7f9ac2e5599.svg",
     "static/media/Rectangle.svg": "/static/media/Rectangle.cc0e65d432f4fae922e339ecb9229423.svg",
     "static/media/build-banner.svg": "/static/media/build-banner.91a95be43e2ef48830f8131370b5356d.svg",
     "static/media/Rectangle-1285.svg": "/static/media/Rectangle-1285.d8a8c2e805985846a38a457347942a3d.svg",
@@ -62,10 +61,10 @@
     "static/media/Mi.svg": "/static/media/Mi.17b6353f02a491d0d9fd79190acd86d0.svg",
     "static/media/menu.svg": "/static/media/menu.b9cd3c3e4b5a847f3e37af0ca17821fe.svg",
     "main.a96dc775.css.map": "/static/css/main.a96dc775.css.map",
-    "main.4c87dd27.js.map": "/static/js/main.4c87dd27.js.map"
+    "main.71aeaa10.js.map": "/static/js/main.71aeaa10.js.map"
   },
   "entrypoints": [
     "static/css/main.a96dc775.css",
-    "static/js/main.4c87dd27.js"
+    "static/js/main.71aeaa10.js"
   ]
 }
